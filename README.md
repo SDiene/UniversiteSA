@@ -1,2 +1,2 @@
 # UniversiteSA
-http://www.universitesa.epizy.com/
+http://www.universitesa.epizy.com
